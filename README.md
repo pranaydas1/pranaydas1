@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pranaydas001" target="blank"><img align="center" src="twitter-logo-2429" alt="pranaydas001" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/-pranay-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-pranay-das" height="30" width="40" /></a>
 <a href="https://fb.com/pranay.das.75457081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranay.das.75457081" height="30" width="40" /></a>
 <a href="https://instagram.com/shiba_inu.czzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiba_inu.czzz" height="30" width="40" /></a>
