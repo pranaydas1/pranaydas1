@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/pranaydas001" target="blank"><img src="https://img.shields.io/twitter/follow/pranaydas001?logo=twitter&style=for-the-badge" alt="pranaydas001" /></a> </p>
 
-- 🌱 I’m currently learning **Expresss JS**
+- 🌱 I’m currently learning **DJango**
 
-- 💬 Ask me about **HTML,CSS,JS,DSA, React, MongoDB , Technical & Apptitute**
+- 💬 Ask me about **HTML,CSS,JS,DSA, React, MySQL ,Flask, Technical & Apptitute**
 
 - 📫 How to reach me **pranay.das.cse@gmail.com**
 
